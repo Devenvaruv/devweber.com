@@ -1,0 +1,12 @@
+{
+  "name": "com.deven.chair",
+  "displayName": "Classroom Chair (Asset)",
+  "version": "1.0.0",
+  "unity": "2025.3",
+  "description": "Chair model + materials + prefab at 1:1 meter scale for VR.",
+  "keywords": [
+    "vr",
+    "model",
+    "classroom"
+  ]
+}
